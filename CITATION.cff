@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite the protocol paper below."
+type: software
+title: "timing-power-bench: Pre-registered public evaluation protocol for post-route power recovery"
+authors:
+  - family-names: "Sharma"
+    given-names: "Amit"
+    orcid: "https://orcid.org/0009-0003-2191-1452"
+repository-code: "https://github.com/amitkumarsharmaec/timing-power-bench"
+license: "Apache-2.0"
+# version and date-released are set at the v1.0.0 release; the Zenodo concept
+# DOI is added here once minted (spec section 9).
+preferred-citation:
+  type: article
+  title: "AI-Driven, Timing-Aware Power Optimization"
+  authors:
+    - family-names: "Sharma"
+      given-names: "Amit"
+      orcid: "https://orcid.org/0009-0003-2191-1452"
+  year: 2026
+  archive: "arXiv"
+  eprint: "2610.18890"
+  primary-class: "cs.AR"
+  url: "https://arxiv.org/abs/2610.18890"
